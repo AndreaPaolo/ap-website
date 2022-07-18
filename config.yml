@@ -36,11 +36,11 @@ params:
     disableThemeToggle: false
     # defaultTheme: "light" # dark
 
-  # font:
-  #   fontSize: 1.5rem # default: 1rem
-  #   fontWeight: 500 # default: 400
-  #   lineHeight: 1 # default: 1.5
-  #   textAlign: right # default: left
+  font:
+    #fontSize: 1.5rem # default: 1rem
+    fontWeight: 500 # default: 400
+    #lineHeight: 1 # default: 1.5
+    #textAlign: right # default: left
 
   # color preference
   # color:
@@ -65,11 +65,11 @@ params:
   #   brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
   #   brandName: "Profile" # Brand name for the brand | default is the title variable
 
-  #   menus:
+  menus:
   #     disableAbout: true
   #     disableExperience: true
   #     disableEducation: true
-  #     disableProjects: true
+    disableProjects: true
   #     disableAchievements: true
   #     disableContact: true
 
@@ -178,7 +178,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     items:
       - title: Hugo Profile
         content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
