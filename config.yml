@@ -1,0 +1,242 @@
+baseURL: "https://hugo-profile.netlify.app"
+languageCode: "it"
+title: "Andrea Paolo"
+theme: hugo-profile
+
+Paginate: 6
+#disqusShortname: gurusabarish
+#googleAnalytics: G-DWJJVE27WD
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: /blogs
+      weight: 1
+    
+    #- identifier: gallery
+    #  name: Gallery
+    #  title: Blog posts
+    #  url: /gallery
+    #  weight: 2
+
+params:
+  title: "Andrea Paolo"
+  description: Istruttore e Personal trainer di Firenze
+  # staticPath: ""  # The path to serve the static files from
+  favicon: "/fav.png"
+
+  theme:
+    disableThemeToggle: false
+    # defaultTheme: "light" # dark
+
+  # font:
+  #   fontSize: 1.5rem # default: 1rem
+  #   fontWeight: 500 # default: 400
+  #   lineHeight: 1 # default: 1.5
+  #   textAlign: right # default: left
+
+  # color preference
+  # color:
+  #   textColor:
+  #   secondaryTextColor:
+  #   backgroundColor:
+  #   secondaryBackgroundColor:
+  #   primaryColor:
+  #   secondaryColor:
+
+  #   darkmode:
+  #     textColor:
+  #     secondaryTextColor:
+  #     backgroundColor:
+  #     secondaryBackgroundColor:
+  #     primaryColor:
+  #     secondaryColor:
+
+  # If you want to customize the menu, you can change it here
+  # navbar:
+  #   align: mx-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+  #   brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+  #   brandName: "Profile" # Brand name for the brand | default is the title variable
+
+  #   menus:
+  #     disableAbout: true
+  #     disableExperience: true
+  #     disableEducation: true
+  #     disableProjects: true
+  #     disableAchievements: true
+  #     disableContact: true
+
+  # Hero
+  hero:
+    enable: true
+    intro: "Ciao, sono"
+    title: "Andrea Paolo."
+    subtitle: "Istruttore e Personal trainer"
+    content: "Appassoniato del fitness e della cultura fisica, il mio lavoro è farti arrivare alla condizione fisica che hai sempre voluto avere!"
+    #content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    image: /images/hero.svg
+    button:
+      enable: true
+      name: "Contattami"
+      url: "#contact"
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-instagram
+          url: https://www.instagram.com/andrea_paolo_/
+        - icon: fab fa-facebook
+          url: https://www.facebook.com/Coach-Andrea-Paolo-105673301165577
+      customIcons:
+        - icon: /fav.png
+          url: https://linktree.paoloandrea.it/
+
+  # About
+  about:
+    enable: true
+    title: "Su di me"
+    image: "/images/me.png"
+    content: |-
+      Lo sport è sempre stato al centro della mia vita, fin da bambino mi ha sempre affascinato il mondo del movimento.
+      Ho iniziato a praticare sport fin dai primi anni di vita con il nuoto, successivamente sono passato alle arti marziali ed infine alla pallavolo. Solo in età post adolescenziale mi sono avvicinato al mondo del fitness e alla sala pesi.
+
+      Oggi sono istruttore e personal trainer certificato Coni, il mio obiettivo è quello di far raggiungere la codizione fisica che avete sempre sognato; ma soprattutto fare informazioni su tutto ciò che riguarda il mondo del fitness.
+    skills:
+      enable: true
+      title: "Tutti i titoli da me conseguiti:"
+      items:
+        - "Istruttore sala pesi"
+        - "Personal trainer"
+        - "Preparatore atletico"
+        - "Istruttore funzionale"
+        - "Istruttore senior"
+        - "Istruttore junior"
+
+  # Experience
+  experience:
+    title: "Esperienze"
+    enable: true
+    items:
+      - job: "Personal trainer"
+        company: "Personal trainer"
+        companyUrl: 
+        date: "Ottobre 2018 - oggi"
+        info:
+          enable: true
+          content: Personal trainer in presenza che online
+        content: "Da ottobre 2018 ad oggi mi occupo di personal training uno ad uno o uno a più persone, sia in presenza che online. "
+
+      - job: "Divulgatore"
+        company: "Instagram"
+        companyUrl: "https://www.instagram.com/andrea_paolo_/"
+        date: "Maggio 2020 - Oggi"
+        featuredLink:
+          name: Instagram
+          enable: true
+          url: "https://www.instagram.com/andrea_paolo_/"
+        info:
+          enable: true
+          content: Divulgatore fitness su instagram
+        content: |
+          Da maggio 2020 mi occupo di divulgazione sui social di tutto ciò che riguarda la salute ed il mondo del fitness. 
+
+          Il mio obiettivo è quello di sfatare i falsi miti del fitness, non creare false aspettative sui risultati e soprattutto sviscerare i concetti difficili e renderli accessibili a tutti.
+  
+  # Education
+  education:
+    enable: true
+    # index: true
+    items:
+      - title: "Diploma Personal Fitness Trainer"
+        school:
+          name: "AICS eps Coni"
+          url: "https://www.aics.it/"
+        date: "2019 - 2020"
+        content:
+       
+      - title: "Laurea triennale Scienze Motorie L.22"
+        school:
+          name: "Università telematica Pegaso"
+          url: "https://www.unipegaso.it/corsi-di-laurea/scienze-motorie"
+        date: "2020 - 2023"
+        GPA: ""
+        content:
+
+  # Achievements
+  achievements:
+    enable: true
+    items:
+      - title: Abxolute Nutrition
+        content: Sponsor ufficiale Abxolute Nutrition, con il codice "AP10" avrete il 10% di sconto su tutto il sito
+        url: https://www.abxolutenutrition.com/?sca_ref=462521.8k7XeO6Ljc
+      
+
+  # projects
+  projects:
+    enable: true
+    items:
+      - title: Hugo Profile
+        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+        image: /images/projects/profile.png
+        featured:
+          name: Demo
+          link: https://hugo-profile.netlify.app
+        # badges:
+        #   - "Hugo"
+        #   - "Bootstrap"
+        #   - "Javascript"
+        links:
+          - icon: fa fa-envelope
+            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/hugo-profile
+          - icon: fab fa-twitter
+            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: Image Converter
+        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+        image: /images/projects/converter.jpg
+        featured:
+          name: Demo
+          link: https://django-converter.herokuapp.com
+        # badges:
+        #   - "Django"
+        #   - "Bootstrap"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/converter
+
+      - title: Hugo Profile V2
+        content: A clean and simple Hugo template for personal portfolio and blog.
+        image: /images/projects/profile2.jpg
+        featured:
+          name: Demo V2
+          link: https://hugo-profile-2.netlify.app
+        # badges:
+        #   - "Hugo"
+        #   - "Bootstrap"
+        #   - "Javascript"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/HugoProfileV2
+
+  #Contact
+  contact:
+    enable: true
+    content: "Se hai: delle domane, dei dubbi o semplicemente vuoi più informazioni non esitare a contattarmi."
+    email: gurusabarisha@gmail.com
+    btnName: Mail me
+
+  footer:
+    # recentPosts: false
+    socialNetworks:
+      #github: https://github.com
+      #linkedin: https://linkedin.com
+      #twitter: https://twitter.com
+      instagram: https://www.instagram.com/andrea_paolo_/
+      facebook: https://www.facebook.com/Coach-Andrea-Paolo-105673301165577
