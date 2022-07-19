@@ -2,6 +2,7 @@ baseURL: "https://hugo-profile.netlify.app"
 languageCode: "it"
 title: "Andrea Paolo"
 theme: hugo-profile
+pluralizelisttitles: "false"
 
 Paginate: 6
 #disqusShortname: gurusabarish
@@ -14,11 +15,32 @@ markup:
 
 Menus:
   main:
+    #Dropdown menu
+    - identifier: dropdown
+      title: Dropdown
+      name: Articoli
+      weight: 2
+
     - identifier: blog
       name: Blog
       title: Blog posts
-      url: /blogs
+      url: /blog
+      parent: dropdown
       weight: 1
+
+    - identifier: tips
+      name: Tips della Domenica
+      title: "Tips"
+      url: /tips
+      parent: dropdown
+      weight: 1
+      
+    - identifier: schede
+      title: Schede
+      name: Allenati con me
+      url: /schede
+      parent: dropdown
+      weight: 2
     
     #- identifier: gallery
     #  name: Gallery
