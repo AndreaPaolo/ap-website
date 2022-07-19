@@ -1,7 +1,7 @@
 ---
 title: "La giornata mondiale della salute"
 date: 2022-04-07
-draft: true
+draft: false
 ---
 
 Il 7 Aprile di ogni anno si celebra la giornata mondiale della salute, più nello specifico si cerca di sensibilizzare la popolazione su tutto ciò che sta attorno alla salute. **In questo articolo tratteremo il tema dell’obesità.**
