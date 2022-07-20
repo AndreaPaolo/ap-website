@@ -6,7 +6,7 @@ pluralizelisttitles: "false"
 
 Paginate: 6
 #disqusShortname: gurusabarish
-#googleAnalytics: G-DWJJVE27WD
+googleAnalytics: G-V6BN6K1NRS
 
 markup:
   goldmark:
@@ -51,6 +51,7 @@ Menus:
 params:
   title: "Andrea Paolo"
   description: Istruttore e Personal trainer di Firenze
+  keywords: "Andrea,Paolo,istruttore,personal trainer,firenze,palestra,fitness,allenamento,online coaching,coaching"
   # staticPath: ""  # The path to serve the static files from
   favicon: "/favicon.ico"
   #customCSS: true
