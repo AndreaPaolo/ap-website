@@ -52,7 +52,7 @@
             <h5>Tags</h5>
             <ul class="tags-ul list-unstyled list-inline">
               {{range .Params.tags}}
-              <li class="list-inline-item"><a href="{{`tags` | absURL}}/{{.| urlize}}" >{{.}}</a></li>
+              <li class="list-inline-item"><a href="{{`tags` | absURL}}/{{.| urlize}}" target="_blank" >{{.}}</a></li>
               {{end}}
             </ul>
           </aside>

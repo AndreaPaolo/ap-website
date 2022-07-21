@@ -1,0 +1,12 @@
+version: '3'
+services:
+  hugo-app:
+    container_name: hugo-app
+    image: klakegg/hugo:0.101.0
+    command: server -DF --disableFastRender -b "192.168.1.70" -p "80"
+    volumes:
+      - ".:/src"
+    ports:
+      - "80:80"
+    environment:
+      - HUGO_ENV=roduction
