@@ -5,7 +5,14 @@ draft: false
 author: "Andrea Paolo"
 tags:
   - Principianti
-toc: 
+keywords: 
+    - scheda allenamento
+    - allenamento
+    - principiante
+    - andrea paolo
+    - paolo andrea
+    - personal trainer
+    - fitness
 ---
 
 ### Sei alla ricerca di una scheda che ti permetta di rimetterti in forma, ti aiuti a dimagrire o iniziare a muovere i primi passi all'interno del mondo dell'allenamento?

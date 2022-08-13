@@ -2,6 +2,18 @@
 title: "La giornata mondiale della salute"
 date: 2022-04-07
 draft: false
+author: "Andrea Paolo"
+tags:
+  - Principianti
+description: "L'obesità è una delle patologie più diffuse che mettono in crisi la salute dell'uomo, in Italia un adulto su tre è in sovrappeso e uno su dieci è obeso."
+keywords: 
+    - salute
+    - obesità
+    - 7 aprile
+    - andrea paolo
+    - paolo andrea
+    - personal trainer
+    - prevenzione
 ---
 
 Il 7 Aprile di ogni anno si celebra la giornata mondiale della salute, più nello specifico si cerca di sensibilizzare la popolazione su tutto ciò che sta attorno alla salute. **In questo articolo tratteremo il tema dell’obesità.**

@@ -1,5 +1,6 @@
 {{ define "head" }}
 <meta name="description" content="{{ .Params.description }}">
+<meta name="keywords" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ end }}">
 <link rel="stylesheet" href="{{.Site.Params.staticPath}}/css/single.css">
 
 <!-- fontawesome -->
