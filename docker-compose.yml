@@ -1,18 +1,12 @@
 version: '3'
 services:
   hugo-app:
-    image: citoyx/hugo
-    networks:
-      - traefik
-    labels:
-      - "traefik.frontend.rule=Host:www.citoyx.com"
-      - "traefik.port=1313"
-      - "traefik.backend=hugo"
-      - "traefik.frontend.entryPoints=http,https"
+    image: jojomi/hugo:latest
     volumes:
-      - "/data/work/hugo:/srv/hugo"
-    environment:
-      - HUGO_BASEURL=https://www.citoyx.com
-    ports:
-      - "1313:1313"
+      - "./:/src"
     restart: unless-stopped
+
+  hugo-web:
+    image: pagespeed/nginx-pagespeed
+    volumes:
+      - "./:usr/share/nginx/html:ro"
