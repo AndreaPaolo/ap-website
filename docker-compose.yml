@@ -1,12 +1,20 @@
 version: '3'
 services:
   hugo-app:
-    image: jojomi/hugo:latest
+    container_name: hugo-app
+    image: klakegg/hugo
+    command: server
     volumes:
-      - "./:/src"
+      - ".:/src"
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.hugo.rule=Host(`ap.ubuntu.local`)"
+      - "traefik.http.routers.hugo.entrypoints=web, websecure"
+      - "traefik.http.services.pihole.loadbalancer.server.port=1313"
+      - "traefik.http.routers.hugo.tls=true"
     restart: unless-stopped
-
-  hugo-web:
-    image: pagespeed/nginx-pagespeed
-    volumes:
-      - "./:usr/share/nginx/html:ro"
+    networks: 
+      - lan
+      
+networks: 
+  lan:
