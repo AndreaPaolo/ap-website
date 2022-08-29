@@ -1,4 +1,4 @@
-baseURL: "paoloandrea.it"
+baseURL: "https://andreapaolo.github.io/ap-website/"
 languageCode: "it"
 title: "Andrea Paolo"
 theme: hugo-profile
