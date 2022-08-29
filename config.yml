@@ -110,6 +110,7 @@ params:
       enable: true
       name: "Contattami"
       url: "#contact"
+      download: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-instagram
@@ -253,7 +254,7 @@ params:
   contact:
     enable: true
     content: "Se hai: delle domane, dei dubbi o semplicemente vuoi più informazioni non esitare a contattarmi."
-    email: gurusabarisha@gmail.com
+    email: info@paoloandrea.it
     btnName: Mail me
 
   footer:
