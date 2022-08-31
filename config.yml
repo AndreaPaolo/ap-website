@@ -8,6 +8,7 @@ pluralizelisttitles: "false"
 Paginate: 6
 #disqusShortname: gurusabarish
 googleAnalytics: G-V6BN6K1NRS
+enableRobotsTXT: true
 
 markup:
   goldmark:
