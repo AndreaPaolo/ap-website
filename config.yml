@@ -1,5 +1,5 @@
-#baseURL: "https://andreapaolo.github.io/ap-website/"
-relativeURLs: true
+baseURL: "http://paoloandrea.it"
+#relativeURLs: true
 languageCode: "it"
 title: "Andrea Paolo"
 theme: hugo-profile
