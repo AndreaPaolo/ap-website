@@ -6,7 +6,7 @@ theme: hugo-profile
 pluralizelisttitles: "false"
 
 Paginate: 6
-disqusShortname: paoloandrea
+#disqusShortname: paoloandrea
 googleAnalytics: G-V6BN6K1NRS
 enableRobotsTXT: true
 
