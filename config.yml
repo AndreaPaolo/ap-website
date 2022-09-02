@@ -107,7 +107,7 @@ params:
     subtitle: "Istruttore e Personal trainer"
     content: "Appassoniato del fitness e della cultura fisica, il mio lavoro è farti arrivare alla condizione fisica che hai sempre voluto avere!"
     #content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/profilo.png
+    image: /images/profilo.webp
     button:
       enable: true
       name: "Contattami"
@@ -127,7 +127,7 @@ params:
   about:
     enable: true
     title: "Su di me"
-    image: "/images/me.jpg"
+    image: "/images/me.webp"
     content: |-
       Lo sport è sempre stato al centro della mia vita, fin da bambino mi ha sempre affascinato il mondo del movimento.
       Ho iniziato a praticare sport fin dai primi anni di vita con il nuoto, successivamente sono passato alle arti marziali ed infine alla pallavolo. Solo in età post adolescenziale mi sono avvicinato al mondo del fitness e alla sala pesi.
