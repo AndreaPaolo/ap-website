@@ -6,7 +6,6 @@ theme: hugo-profile
 pluralizelisttitles: "false"
 
 Paginate: 6
-#disqusShortname: paoloandrea
 googleAnalytics: G-V6BN6K1NRS
 enableRobotsTXT: true
 
@@ -43,12 +42,6 @@ Menus:
       url: /schede
       parent: dropdown
       weight: 2
-    
-    #- identifier: gallery
-    #  name: Gallery
-    #  title: Blog posts
-    #  url: /gallery
-    #  weight: 2
 
 params:
   title: "Andrea Paolo"
@@ -60,36 +53,12 @@ params:
 
   theme:
     disableThemeToggle: false
-    # defaultTheme: "light" # dark
 
   font:
     #fontSize: 1.5rem # default: 1rem
     fontWeight: 500 # default: 400
     #lineHeight: 1 # default: 1.5
     #textAlign: right # default: left
-
-  # color preference
-  # color:
-  #   textColor:
-  #   secondaryTextColor:
-  #   backgroundColor:
-  #   secondaryBackgroundColor:
-  #   primaryColor:
-  #   secondaryColor:
-
-  #   darkmode:
-  #     textColor:
-  #     secondaryTextColor:
-  #     backgroundColor:
-  #     secondaryBackgroundColor:
-  #     primaryColor:
-  #     secondaryColor:
-
-  # If you want to customize the menu, you can change it here
-  # navbar:
-  #   align: mx-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-  #   brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-  #   brandName: "Profile" # Brand name for the brand | default is the title variable
 
   menus:
   #     disableAbout: true
@@ -106,7 +75,6 @@ params:
     title: "Andrea Paolo."
     subtitle: "Istruttore e Personal trainer"
     content: "Appassoniato del fitness e della cultura fisica, il mio lavoro è farti arrivare alla condizione fisica che hai sempre voluto avere!"
-    #content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/profilo.jpg
     button:
       enable: true
@@ -201,69 +169,19 @@ params:
       - title: Abxolute Nutrition
         content: Sponsor ufficiale Abxolute Nutrition, con il codice "AP10" avrete il 10% di sconto su tutto il sito
         url: https://www.abxolutenutrition.com/?sca_ref=462521.8k7XeO6Ljc
-      
-
-  # projects
-  projects:
-    enable: false
-    items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
-        featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
-        # badges:
-        #   - "Django"
-        #   - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
-
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
-
+    
   #Contact
   contact:
     enable: true
-    content: "Se hai: delle domane, dei dubbi o semplicemente vuoi più informazioni non esitare a contattarmi."
+    content: "Se hai delle domane, dei dubbi o semplicemente vuoi più informazioni non esitare a contattarmi."
     email: info@paoloandrea.it
-    btnName: Mail me
+    btnName: Contattami
 
   footer:
     # recentPosts: false
     socialNetworks:
       #github: https://github.com
       #linkedin: https://linkedin.com
-      #twitter: https://twitter.com
+      wabusiness: "https://api.whatsapp.com/send?phone=393516567574"
       instagram: https://www.instagram.com/andrea_paolo_/
       facebook: https://www.facebook.com/Coach-Andrea-Paolo-105673301165577
