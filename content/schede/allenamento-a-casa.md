@@ -30,9 +30,9 @@ La scheda può essere eseguita una/due volte a settimana, si può progredire sia
 |Squat a corpo libero|3|10|2'|
 |Step up su sedia o rialzo|4|10|1'30"|
 |Ponte a terra con pesini o bottiglie d'acqua|5|10|1'30"|
-|Piegamenti sulle braccia|3|10|2'|
+|[Piegamenti sulle braccia](https://www.instagram.com/p/Ca7Qx1tsd13/)|3|10|2'|
 |Rematore con pesini o bottiglie d'acqua|4|10|1'30"|
-|Spinte sopra la testa con pesini o bottiglie d'acqua|5|10|1'30"|
+|[Spinte sopra la testa con pesini o bottiglie d'acqua](https://www.instagram.com/p/CddXr_lDsDQ/)|5|10|1'30"|
 |Crunch|4|10|2'|
 |Twisted crunch|3|10|1'30"|
 |Plank|4|Max|2'|
