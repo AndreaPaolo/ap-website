@@ -8,8 +8,8 @@ pluralizelisttitles: "false"
 Paginate: 6
 googleAnalytics: G-V6BN6K1NRS
 enableRobotsTXT: true
-enableGitInfo: true
-canonifyUrls: true
+#enableGitInfo: true
+#canonifyUrls: true
 
 markup:
   goldmark:
@@ -120,7 +120,7 @@ params:
     enable: true
     items:
       - job: "Personal trainer"
-        company: "Palestra TimeOut"
+        company: "Personal trainer"
         companyUrl: "https://palestratimeout.com"
         date: "Ottobre 2018 - oggi"
         info:
@@ -128,7 +128,7 @@ params:
           content: Personal trainer in presenza che online
         content: "Da ottobre 2018 ad oggi mi occupo di personal training uno ad uno o uno a più persone, sia in presenza che online. "
 
-      - job: "Istruttore di salal"
+      - job: "Istruttore di sala"
         company: "Palestra TimeOut"
         companyUrl: "https://palestratimeout.com"
         date: "Agosto 2022 - oggi"
