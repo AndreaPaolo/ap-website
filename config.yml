@@ -8,6 +8,8 @@ pluralizelisttitles: "false"
 Paginate: 6
 googleAnalytics: G-V6BN6K1NRS
 enableRobotsTXT: true
+enableGitInfo: true
+canonifyUrls: true
 
 markup:
   goldmark:
