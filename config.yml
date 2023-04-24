@@ -118,13 +118,22 @@ params:
     enable: true
     items:
       - job: "Personal trainer"
-        company: "Personal trainer"
-        companyUrl: 
+        company: "Palestra TimeOut"
+        companyUrl: "https://palestratimeout.com"
         date: "Ottobre 2018 - oggi"
         info:
           enable: true
           content: Personal trainer in presenza che online
         content: "Da ottobre 2018 ad oggi mi occupo di personal training uno ad uno o uno a più persone, sia in presenza che online. "
+
+      - job: "Istruttore di salal"
+        company: "Palestra TimeOut"
+        companyUrl: "https://palestratimeout.com"
+        date: "Agosto 2022 - oggi"
+        info:
+          enable: true
+          content: Assistente di sala
+        content: "Da agosto 2022 ad oggi lavoro come assite te di sala presso la palestra TimeOut. "
 
       - job: "Divulgatore"
         company: "Instagram"
