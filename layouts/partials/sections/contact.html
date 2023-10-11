@@ -1,7 +1,7 @@
 {{ if .Site.Params.contact.enable | default false }}
 <section id="contact" class="py-5">
     <div class="container">
-        <h3 class="text-center">Contattami</h3>
+        <h3 class="text-center">Contattami oppure prenota un'appuntamento</h3>
         <div class="px-0 px-md-5 px-lg-5">
             <div class="row justify-content-center px-md-5">
                 <div class="col-md-8 py-3">
@@ -18,6 +18,10 @@
                 </div>
             </div>
         </div>
+        <!-- Calendly inline widget begin -->
+            <div class="calendly-inline-widget" data-url="https://calendly.com/andrea-paolo/seduta-di-personal-training" style="min-width:320px;height:700px;"></div>
+            <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+        <!-- Calendly inline widget end -->
     </div>
 </section>
 {{ end }}
