@@ -31,12 +31,12 @@ Menus:
       parent: dropdown
       weight: 1
 
-    - identifier: tips
-      name: Tips della Domenica
-      title: "Tips"
-      url: /tips
-      parent: dropdown
-      weight: 1
+    #- identifier: tips
+      #name: Tips della Domenica
+      #title: "Tips"
+      #url: /tips
+      #parent: dropdown
+      #weight: 1
       
     - identifier: schede
       title: Schede
@@ -77,12 +77,7 @@ params:
     title: "Andrea Paolo."
     subtitle: "Istruttore e Personal trainer"
     content: "Appassoniato del fitness e della cultura fisica, il mio lavoro è farti arrivare alla condizione fisica che hai sempre voluto avere!"
-    image: /images/profilo.jpg
-    button:
-      enable: true
-      name: "Contattami"
-      url: "#contact"
-      download: false
+    image: /images/DSC02307.jpg
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-instagram
@@ -97,7 +92,7 @@ params:
   about:
     enable: true
     title: "Su di me"
-    image: "/images/me.jpg"
+    image: "/images/pro.jpeg"
     content: |-
       Lo sport è sempre stato al centro della mia vita, fin da bambino mi ha sempre affascinato il mondo del movimento.
       Ho iniziato a praticare sport fin dai primi anni di vita con il nuoto, successivamente sono passato alle arti marziali ed infine alla pallavolo. Solo in età post adolescenziale mi sono avvicinato al mondo del fitness e alla sala pesi.
@@ -107,12 +102,11 @@ params:
       enable: true
       title: "Tutti i titoli da me conseguiti:"
       items:
-        - "Istruttore sala pesi"
+        - "Laurea Triennale Scienze motorie"
+        - "Laurea Magistrale Managment dello sport e delle attività sportive"
         - "Personal trainer"
+        - "Istruttore sala pesi"
         - "Preparatore atletico"
-        - "Istruttore funzionale"
-        - "Istruttore senior"
-        - "Istruttore junior"
 
   # Experience
   experience:
@@ -155,12 +149,12 @@ params:
   
   # Education
   education:
-    enable: true
+    enable: false
     # index: true
     items:
       - title: "Diploma Personal Fitness Trainer"
         school:
-          name: "AICS eps Coni"
+          name: "Coni"
           url: "https://www.aics.it/"
         date: "2019 - 2020"
         content:
@@ -173,14 +167,22 @@ params:
         GPA: ""
         content:
 
-  # Achievements
+      - title: "Laurea Magistrale Managment dello sport e delle attività sportive L.47"
+        school:
+          name: "Università telematica Pegaso"
+          url: "https://www.unipegaso.it/corsi-di-laurea"
+        date: "2023 - 2025"
+        GPA: ""
+        content:
+
+  # Collaborazioni
   achievements:
     enable: true
     items:
-      - title: Abxolute Nutrition
-        content: Sponsor ufficiale Abxolute Nutrition, con il codice "AP10" avrete il 10% di sconto su tutto il sito
-        url: https://www.abxolutenutrition.com/?sca_ref=462521.8k7XeO6Ljc
-    
+      - title: Prozis 
+        content: Sponsor ufficiale Prozis Italia, con il codice "AP10" avrete il 10% di sconto su tutto il sito.
+        url: https://www.prozis.com/it/
+        
   #Contact
   contact:
     enable: true

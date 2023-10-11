@@ -1,7 +1,7 @@
 ---
 title: "La giornata mondiale della salute"
 date: 2022-04-07
-draft: false
+draft: true
 author: "Andrea Paolo"
 tags:
 description: "L'obesità è una delle patologie più diffuse che mettono in crisi la salute dell'uomo, in Italia un adulto su tre è in sovrappeso e uno su dieci è obeso. Scopri cos'è l'obesità e come curarla."
