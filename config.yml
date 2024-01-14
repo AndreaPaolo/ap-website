@@ -5,6 +5,15 @@ title: "Andrea Paolo"
 theme: hugo-profile
 pluralizelisttitles: "false"
 
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
 Paginate: 6
 googleAnalytics: G-V6BN6K1NRS
 enableRobotsTXT: true
