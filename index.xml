@@ -5,60 +5,60 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">Esercizio&lt;/th>
- &lt;th style="text-align: left">Serie&lt;/th>
- &lt;th style="text-align: left">Ripetizioni&lt;/th>
- &lt;th style="text-align: left">Note&lt;/th>
+ &lt;th>Esercizio&lt;/th>
+ &lt;th>Serie&lt;/th>
+ &lt;th>Ripetizioni&lt;/th>
+ &lt;th>Note&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Panca inclinata al multipower&lt;/td>
- &lt;td style="text-align: left">5&lt;/td>
- &lt;td style="text-align: left">12/10/8/6/4&lt;/td>
- &lt;td style="text-align: left">Salita progressiva del carico durante le serie&lt;/td>
+ &lt;td>Panca inclinata al multipower&lt;/td>
+ &lt;td>5&lt;/td>
+ &lt;td>12/10/8/6/4&lt;/td>
+ &lt;td>Salita progressiva del carico durante le serie&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Panca piana con manubri&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">8/8/10/10&lt;/td>
- &lt;td style="text-align: left">Il peso rimane invariato tra le serie uguali&lt;/td>
+ &lt;td>Panca piana con manubri&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>8/8/10/10&lt;/td>
+ &lt;td>Il peso rimane invariato tra le serie uguali&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Croci con manubri su panca inclinata&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">Inclinazione di 30 o 45 gradi&lt;/td>
+ &lt;td>Croci con manubri su panca inclinata&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>Inclinazione di 30 o 45 gradi&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Spinte sopra la testa su panca&lt;/td>
- &lt;td style="text-align: left">5&lt;/td>
- &lt;td style="text-align: left">12/10/8/10/12&lt;/td>
- &lt;td style="text-align: left">Il peso rimane invariato tra le serie uguali&lt;/td>
+ &lt;td>Spinte sopra la testa su panca&lt;/td>
+ &lt;td>5&lt;/td>
+ &lt;td>12/10/8/10/12&lt;/td>
+ &lt;td>Il peso rimane invariato tra le serie uguali&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Lat machine&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">Presa larga&lt;/td>
+ &lt;td>Lat machine&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>Presa larga&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Pulldown&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Pulldown&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Row machine&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">12&lt;/td>
- &lt;td style="text-align: left">Presa larga&lt;/td>
+ &lt;td>Row machine&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>12&lt;/td>
+ &lt;td>Presa larga&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Upper back&lt;/td>
- &lt;td style="text-align: left">3&lt;/td>
- &lt;td style="text-align: left">15&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Upper back&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;td>15&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -66,60 +66,60 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">Esercizio&lt;/th>
- &lt;th style="text-align: left">Serie&lt;/th>
- &lt;th style="text-align: left">Ripetizioni&lt;/th>
- &lt;th style="text-align: left">Note&lt;/th>
+ &lt;th>Esercizio&lt;/th>
+ &lt;th>Serie&lt;/th>
+ &lt;th>Ripetizioni&lt;/th>
+ &lt;th>Note&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Squat al multipower&lt;/td>
- &lt;td style="text-align: left">5&lt;/td>
- &lt;td style="text-align: left">12/10/8/6/4&lt;/td>
- &lt;td style="text-align: left">Salita progressiva del carico durante le serie&lt;/td>
+ &lt;td>Squat al multipower&lt;/td>
+ &lt;td>5&lt;/td>
+ &lt;td>12/10/8/6/4&lt;/td>
+ &lt;td>Salita progressiva del carico durante le serie&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Leg extension&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">12&lt;/td>
- &lt;td style="text-align: left">Una gamba alla volta&lt;/td>
+ &lt;td>Leg extension&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>12&lt;/td>
+ &lt;td>Una gamba alla volta&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Pressa&lt;/td>
- &lt;td style="text-align: left">3&lt;/td>
- &lt;td style="text-align: left">20&lt;/td>
- &lt;td style="text-align: left">Una gamba alla volta&lt;/td>
+ &lt;td>Pressa&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;td>20&lt;/td>
+ &lt;td>Una gamba alla volta&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Stacco gambe tese con manubri&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Stacco gambe tese con manubri&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">leg curl sdraiato&lt;/td>
- &lt;td style="text-align: left">3&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>leg curl sdraiato&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Curl&lt;/td>
- &lt;td style="text-align: left">3&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Curl&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Push down&lt;/td>
- &lt;td style="text-align: left">3&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">Con corda&lt;/td>
+ &lt;td>Push down&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>Con corda&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Alzate laterali&lt;/td>
- &lt;td style="text-align: left">3&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Alzate laterali&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -127,60 +127,60 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">Esercizio&lt;/th>
- &lt;th style="text-align: left">Serie&lt;/th>
- &lt;th style="text-align: left">Ripetizioni&lt;/th>
- &lt;th style="text-align: left">Note&lt;/th>
+ &lt;th>Esercizio&lt;/th>
+ &lt;th>Serie&lt;/th>
+ &lt;th>Ripetizioni&lt;/th>
+ &lt;th>Note&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Pulley&lt;/td>
- &lt;td style="text-align: left">5&lt;/td>
- &lt;td style="text-align: left">12/10/8/10/12&lt;/td>
- &lt;td style="text-align: left">Salita progressiva del carico durante le serie, stesso peso tra le serie uguali&lt;/td>
+ &lt;td>Pulley&lt;/td>
+ &lt;td>5&lt;/td>
+ &lt;td>12/10/8/10/12&lt;/td>
+ &lt;td>Salita progressiva del carico durante le serie, stesso peso tra le serie uguali&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Rematore con manubrio&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Rematore con manubrio&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Row machine&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">Presa stretta&lt;/td>
+ &lt;td>Row machine&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>Presa stretta&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">T-bar&lt;/td>
- &lt;td style="text-align: left">3&lt;/td>
- &lt;td style="text-align: left">12&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>T-bar&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;td>12&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Croci ai cavi&lt;/td>
- &lt;td style="text-align: left">3&lt;/td>
- &lt;td style="text-align: left">15&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Croci ai cavi&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;td>15&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Chest press&lt;/td>
- &lt;td style="text-align: left">5&lt;/td>
- &lt;td style="text-align: left">12/10/8/10/12&lt;/td>
- &lt;td style="text-align: left">Salita progressiva del carico durante le serie, stesso peso tra le serie uguali&lt;/td>
+ &lt;td>Chest press&lt;/td>
+ &lt;td>5&lt;/td>
+ &lt;td>12/10/8/10/12&lt;/td>
+ &lt;td>Salita progressiva del carico durante le serie, stesso peso tra le serie uguali&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Panca con manubri&lt;/td>
- &lt;td style="text-align: left">3&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Panca con manubri&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Pectoral&lt;/td>
- &lt;td style="text-align: left">3&lt;/td>
- &lt;td style="text-align: left">15&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Pectoral&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;td>15&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -188,60 +188,60 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">Esercizio&lt;/th>
- &lt;th style="text-align: left">Serie&lt;/th>
- &lt;th style="text-align: left">Ripetizioni&lt;/th>
- &lt;th style="text-align: left">Note&lt;/th>
+ &lt;th>Esercizio&lt;/th>
+ &lt;th>Serie&lt;/th>
+ &lt;th>Ripetizioni&lt;/th>
+ &lt;th>Note&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Stacco gambe tese con bilanciere&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">15/12/10/8&lt;/td>
- &lt;td style="text-align: left">Salita progressiva del carico durante le serie&lt;/td>
+ &lt;td>Stacco gambe tese con bilanciere&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>15/12/10/8&lt;/td>
+ &lt;td>Salita progressiva del carico durante le serie&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Legcurl singolo&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">12&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Legcurl singolo&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>12&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Stacco gambe tese con manubri&lt;/td>
- &lt;td style="text-align: left">3&lt;/td>
- &lt;td style="text-align: left">15&lt;/td>
- &lt;td style="text-align: left">In appoggio al multipower con elastico in trazione&lt;/td>
+ &lt;td>Stacco gambe tese con manubri&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;td>15&lt;/td>
+ &lt;td>In appoggio al multipower con elastico in trazione&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Leg press&lt;/td>
- &lt;td style="text-align: left">5&lt;/td>
- &lt;td style="text-align: left">12/10/8/10/12&lt;/td>
- &lt;td style="text-align: left">Salita progressiva del carico durante le serie, stesso peso tra le serie uguali&lt;/td>
+ &lt;td>Leg press&lt;/td>
+ &lt;td>5&lt;/td>
+ &lt;td>12/10/8/10/12&lt;/td>
+ &lt;td>Salita progressiva del carico durante le serie, stesso peso tra le serie uguali&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Leg extension&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">12&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Leg extension&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>12&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Curl&lt;/td>
- &lt;td style="text-align: left">3&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Curl&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Push down&lt;/td>
- &lt;td style="text-align: left">3&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">Con corda&lt;/td>
+ &lt;td>Push down&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>Con corda&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Alzate laterali&lt;/td>
- &lt;td style="text-align: left">3&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Alzate laterali&lt;/td>
+ &lt;td>3&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table></description></item><item><title>Il digiuno che allunga la vita</title><link>http://paoloandrea.it/tips/2-10-22/</link><pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate><guid>http://paoloandrea.it/tips/2-10-22/</guid><description>&lt;h3 id="mitocondri">Mitocondri&lt;/h3>
